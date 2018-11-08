@@ -1,4 +1,5 @@
-# VENZEE - REACT, STYLED-COMPONENTS, REDUX & REDUX-SAGA POC
+## VENZEE - react poc
+
 
 ```
 npm install 
