@@ -1,0 +1,1 @@
+export {SomeComponent} from "./_some-component"

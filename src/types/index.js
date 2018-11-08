@@ -1,0 +1,1 @@
+export const UPDATE_ASSET_DESC = "UPDATE_ASSET_DESC"
